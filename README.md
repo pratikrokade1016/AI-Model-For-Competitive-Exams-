@@ -1,4 +1,4 @@
-# UPSC-project
+# Ai Powered Model for Competitive Exams
 
 # AI-Powered Chatbot using RAG Pipeline
 
